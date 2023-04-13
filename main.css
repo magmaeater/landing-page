@@ -116,6 +116,8 @@ img
 {
     margin-top: 0;
     color: black;
+    font-size: 36px;
+    font-weight: bolder;
 }
 
 .info img
@@ -138,3 +140,4 @@ img
     width: 210px;
     margin:20px 
 }
+
