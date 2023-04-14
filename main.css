@@ -218,3 +218,16 @@ h2
     color:#e5e7eb;
 }
 
+.footer
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: larger;
+    color:#f9faf8;
+    padding: 100px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: #1f2937;
+}
+
