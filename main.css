@@ -24,6 +24,7 @@ img
     background-color: #1f2937;
     color: #e5e7eb;
     font-size: 18px;
+    padding-top: 15px;
     padding-left: 340px;
     padding-right: 340px;
     gap: 30px;
@@ -170,4 +171,50 @@ img
     font-size: 30px;
 }
 
+.sign
+{
+    padding: 100px;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.card
+{
+    background-color: #3882F6;
+    color: #e5e7eb;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    border-radius: 10px;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.signup
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    border: 2px solid #f9faf8;
+    border-radius: 10px;
+    height: 40px;
+    width: 150px;
+    font-size: larger;
+}
+
+.card-description
+p,
+h2
+{
+    margin: 0;
+}
+
+.card-description p
+{
+    font-size: large;
+    color:#e5e7eb;
+}
 
