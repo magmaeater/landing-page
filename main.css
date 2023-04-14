@@ -141,3 +141,33 @@ img
     margin:20px 
 }
 
+.thor
+{
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    background-color: #e5e7eb;
+    font-size: 36px;
+    font: light;
+    font-family: italic;
+    color: #1f2937;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.quote,
+.person
+{
+    width: 800px;
+}
+
+.person
+{
+    display: flex;
+    justify-content: flex-end;
+    margin: 0;
+    align-items: baseline;
+    font-size: 30px;
+}
+
+
